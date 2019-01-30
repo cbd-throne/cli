@@ -35,8 +35,9 @@ files.forEach(pkg => {
       "author": "lirunkai",
       "license": "MIT",
       "bugs": {
-        
-      }
+        'url': 'https://github.com/cbd-throne/cli/issues'
+      },
+      "homepage": ""
     }
   }
 
