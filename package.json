@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.10.7"
+  },
+  "workspaces": [
+    "packages/@throne/*"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "李润凯 <lirunkaigod@gmail.com.cn>",
+  "license": "MIT"
+}
